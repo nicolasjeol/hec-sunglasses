@@ -1,3 +1,4 @@
 config/settings.inc.php
 tools/smarty/compile/*
 tools/smarty/cache/*
+.gitignore~
